@@ -35,7 +35,7 @@ Additionally, the repository includes:
   - **Colab Notebook**: https://colab.research.google.com/drive/1wCMA8Ztgzc0RW6xRykILchBhUYLt2waY?usp=sharing
 - ✅ **PyTorch Lightning Implementation**
   - Implements the model using **PyTorch Lightning** for better modularity and training efficiency.
-  - **Colab Notebook**: [PyTorch Lightning Model]
+  - **Colab Notebook**: https://colab.research.google.com/drive/1d28q6X1Bz2oHkq0zUeIrKQChoHO5ncPO?usp=sharing
 
 - ✅ **TensorFlow Functional API**
   - Uses the **Functional API** to build a flexible and reusable model.
