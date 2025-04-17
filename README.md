@@ -22,7 +22,7 @@ Additionally, the repository includes:
 
 - ✅ **PyTorch Without Built-in Layers**
   - Implements a 3-layer neural network using **only tensor operations** (no PyTorch built-in layers).
-  - **Colab Notebook**: [PyTorch Without Built-in Layers]
+  - **Colab Notebook**: https://colab.research.google.com/drive/1U9eaEZnEevvNVSAQmlW1ypS6IvmZkOJe?usp=sharing
 - ✅ **TensorFlow Without High-Level API**
   - Implements the network using **low-level TensorFlow** operations (without `tf.keras` layers).
   - **Uses `tf.einsum` instead of matrix multiplication** for weight updates.
