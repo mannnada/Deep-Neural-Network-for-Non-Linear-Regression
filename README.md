@@ -32,7 +32,7 @@ Additionally, the repository includes:
 ### **2️⃣ Framework-based Implementations**
 - ✅ **PyTorch (Using Built-in Layers & Modules)**
   - Implements the network using **PyTorch modules (`torch.nn`) and `autograd` for backpropagation**.
-  - **Colab Notebook**: [PyTorch Built-in Layers]
+  - **Colab Notebook**: https://colab.research.google.com/drive/1XvghOtQ5tgQifWIu_wjEyBP1LdPetdQJ?usp=sharing
 - ✅ **PyTorch Lightning Implementation**
   - Implements the model using **PyTorch Lightning** for better modularity and training efficiency.
   - **Colab Notebook**: [PyTorch Lightning Model]
