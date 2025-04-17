@@ -18,7 +18,7 @@ Additionally, the repository includes:
 - ✅ **NumPy Only (Manual Backpropagation)**
   - Implements a **3-layer deep neural network** without any deep learning library.
   - Uses **manual gradient computation** with **chain rule-based backpropagation**.
-  - **Colab Notebook**: [NumPy Neural Network]
+  - **Colab Notebook**: https://colab.research.google.com/drive/16P6ZrvK3OCUlPCJLlwGscpjsRjWvJP0q?usp=sharing
 
 - ✅ **PyTorch Without Built-in Layers**
   - Implements a 3-layer neural network using **only tensor operations** (no PyTorch built-in layers).
