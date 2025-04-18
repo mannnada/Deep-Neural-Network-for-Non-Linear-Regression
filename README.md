@@ -39,7 +39,7 @@ Additionally, the repository includes:
 
 - ✅ **TensorFlow Functional API**
   - Uses the **Functional API** to build a flexible and reusable model.
-  - **Colab Notebook**: [TensorFlow Functional API]
+  - **Colab Notebook**: https://colab.research.google.com/drive/1wpZnzFaVlxcU4PJJKn-sGesg3KpW_xtM?usp=sharing
 
 - ✅ **TensorFlow Using Built-in Layers**
   - Implements the model using **`tf.keras.Sequential` with built-in layers**.
