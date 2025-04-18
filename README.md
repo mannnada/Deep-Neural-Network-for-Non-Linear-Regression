@@ -47,7 +47,7 @@ Additionally, the repository includes:
 
 - ✅ **TensorFlow High-Level API (Keras)**
   - Implements the model using **high-level Keras API** for simplicity.
-  - **Colab Notebook**: [TensorFlow High-Level API]
+  - **Colab Notebook**: https://colab.research.google.com/drive/1wpZnzFaVlxcU4PJJKn-sGesg3KpW_xtM?usp=sharing
 
 ---
 
