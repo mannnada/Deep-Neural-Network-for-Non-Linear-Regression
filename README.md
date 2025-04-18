@@ -47,7 +47,7 @@ Additionally, the repository includes:
 
 - ✅ **TensorFlow High-Level API (Keras)**
   - Implements the model using **high-level Keras API** for simplicity.
-  - **Colab Notebook**: 
+  - **Colab Notebook**: https://colab.research.google.com/drive/1UuKQvOewnKFZ7LePOzz6p8PGiLiBLc3X?usp=sharing
 
 ---
 
@@ -55,7 +55,7 @@ Additionally, the repository includes:
 ✅ **Synthetic Data Generation**
 - The dataset is generated using a **3-variable non-linear equation**.
 - Includes **4D visualization** of the data.
-- **Colab Notebook**: [Synthetic Data Generation & 4D Plot]
+- **Colab Notebook**: 
 
 ✅ **Code Walkthrough Video**
 - A **detailed video** explaining the main code sections.
