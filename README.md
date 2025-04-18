@@ -55,7 +55,7 @@ Additionally, the repository includes:
 ✅ **Synthetic Data Generation**
 - The dataset is generated using a **3-variable non-linear equation**.
 - Includes **4D visualization** of the data.
-- **Colab Notebook**: 
+- **Colab Notebook**: https://colab.research.google.com/drive/1wfKNyhU4d06JqtFc5wbccqij-lSzGwcb?usp=sharing
 
 ✅ **Code Walkthrough Video**
 - A **detailed video** explaining the main code sections.
