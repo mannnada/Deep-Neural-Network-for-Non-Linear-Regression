@@ -43,11 +43,11 @@ Additionally, the repository includes:
 
 - ✅ **TensorFlow Using Built-in Layers**
   - Implements the model using **`tf.keras.Sequential` with built-in layers**.
-  - **Colab Notebook**: [TensorFlow Built-in Layers]
+  - **Colab Notebook**: https://colab.research.google.com/drive/1wpZnzFaVlxcU4PJJKn-sGesg3KpW_xtM?usp=sharing
 
 - ✅ **TensorFlow High-Level API (Keras)**
   - Implements the model using **high-level Keras API** for simplicity.
-  - **Colab Notebook**: https://colab.research.google.com/drive/1wpZnzFaVlxcU4PJJKn-sGesg3KpW_xtM?usp=sharing
+  - **Colab Notebook**: 
 
 ---
 
