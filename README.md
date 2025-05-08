@@ -60,5 +60,5 @@ Additionally, the repository includes:
 ✅ **Code Walkthrough Video**
 - A **detailed video** explaining the main code sections.
 - Covers **GitHub structure, Colab walkthrough, and final output**.
-- 📺 **YouTube Link**: [Watch the Full Code Walkthrough]
+- 📺 **YouTube Link**: https://youtu.be/VmPcOByOMhk
 
